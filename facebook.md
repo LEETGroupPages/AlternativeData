@@ -5,130 +5,25 @@ sidebar:
   nav: "facebook"
 --- 
 
-Some text to get us started.
-
-then...
-
-[Go to Methodology](#methodology)
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asd
-
-sdf
-
-asdf
-
-asdf
-
 
 ### Company reported data ###
 
 Some stuff about company reported data
-
-more..
-
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asd
-
-sdf
-
-asdf
-
-asdf
+... including share price movements
 
 
-## Alternative data ##
-
-lkjsdf
-
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asd
-
-sdf
-
-asdf
-
-asdf
+### Alternative data ###
+Show clean predictive data
+Real time
+Same layout
 
 # Methodology #
-some about methodology and such
+Details about where the data is from
+Discussions on "monetizeable users"
+etc
 
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asd
-
-sdf
-
-asdf
-
-asdf
 
 ### Raw data download ###
-Download HERE
+Download links
+S3 direct links
 
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asdf
-
-asd
-
-sdf
-
-asdf
-
-asdf
