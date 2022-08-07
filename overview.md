@@ -1,8 +1,9 @@
 ---
 title: Overview
-layout: default
 permalink: /
-has_children: true
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+- jekyll-remote-theme
 --- 
 
 - Introduction
