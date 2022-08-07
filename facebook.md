@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Facebook
 permalink: /facebook/
 sidebar:
