@@ -1,5 +1,6 @@
 ---
 title: Getting in touch
+layout: home
 permalink: /contact/
 ---
 
