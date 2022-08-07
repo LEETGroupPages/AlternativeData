@@ -1,6 +1,5 @@
 ---
 title: Test page
-order: 1
 permalink: /
 --- 
 
