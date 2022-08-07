@@ -1,6 +1,7 @@
 ---
 title: Facebook
 permalink: /facebook/
+theme: default
 sidebar:
   nav: "facebook"
 --- 
