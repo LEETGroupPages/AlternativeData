@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Facebook
 permalink: /facebook/
 sidebar:
