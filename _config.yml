@@ -3,11 +3,17 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
 - jekyll-remote-theme
 - jekyll-include-cache
-#- jekyll-paginate
-#- jekyll-sitemap
-#- jekyll-gist
-#- jekyll-feed
-#- jemoji
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
+
+defaults:
+  values:
+    layout: single
+
+
 
 # theme: default
 # https://github.com/jekyll/minima
