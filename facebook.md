@@ -17,7 +17,8 @@ Show clean predictive data
 Real time
 Same layout
 
-# Methodology #
+# Methodology
+{: #methodology }
 Details about where the data is from
 Discussions on "monetizeable users"
 etc
