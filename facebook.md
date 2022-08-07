@@ -6,13 +6,15 @@ sidebar:
 --- 
 
 
-# Company reported data # {: #company-reported-data }
+# Company reported data
+{: #reported }
 
 Some stuff about company reported data
 ... including share price movements
 
 
-# Alternative data {: #alternative-data }
+# Alternative data
+{: #alternative }
 Show clean predictive data
 Real time
 Same layout
@@ -25,6 +27,7 @@ etc
 
 
 # Raw data download #
+{: #download }
 Download links
 S3 direct links
 
