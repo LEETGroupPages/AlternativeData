@@ -10,19 +10,19 @@ Some text to get us started.
 then...
 
 
-### Company reported data
+### Company reported data ###
 
 Some stuff about company reported data
 
 more..
 
 
-## Alternative data
+## Alternative data ##
 
 lkjsdf
 
-# Methodology
+# Methodology #
 some about methodology and such
 
-### Raw data download
+### Raw data download ###
 Download HERE
