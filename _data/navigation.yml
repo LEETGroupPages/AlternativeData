@@ -10,9 +10,7 @@ main:
 
 facebook:
 - title: "Company reported data"
-  children:
-  - title: "link to data"
-    url: /facebook/company-reported-data/
+  url: /facebook/#methodology
 - title: "Alternative data"
   children:
   - title: "link..."
