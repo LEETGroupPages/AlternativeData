@@ -8,6 +8,8 @@ plugins:
 - jemoji
 - jekyll-include-cache
 
+breadcrumbs: true
+
 # theme: minima
 
 # theme: default
