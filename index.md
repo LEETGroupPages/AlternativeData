@@ -3,12 +3,13 @@ title: Overview
 permalink: /
 --- 
 
-- Introduction / overview
+- Introduction / overview / summary
 - Methodology
 - Results
   - Monthly active users
   - Daily active users
   - Monetization...
+- Potential applications / investment thesis
 - Raw data / download
 
 
