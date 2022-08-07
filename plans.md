@@ -1,5 +1,6 @@
 ---
 title: Project plans, and how to contribute
+layout: home
 permalink: /plans/
 ---
 
