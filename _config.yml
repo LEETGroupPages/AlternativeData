@@ -1,2 +1,8 @@
-theme: default
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+- jekyll-remote-theme
+
+# theme: default
 # https://github.com/jekyll/minima
+# https://github.com/mmistakes/minimal-mistakes
+# https://github.com/pages-themes/cayman
