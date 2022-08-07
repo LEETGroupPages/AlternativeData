@@ -2,11 +2,11 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 # theme: minima
 plugins:
 - jekyll-remote-theme
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-gist
-- jekyll-feed
-- jemoji
+#- jekyll-paginate
+#- jekyll-sitemap
+#- jekyll-gist
+#- jekyll-feed
+#- jemoji
 - jekyll-include-cache
 
 # theme: default
