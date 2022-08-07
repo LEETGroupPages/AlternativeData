@@ -3,5 +3,5 @@ title: Facebook
 permalink: /facebook/
 ---
 
-Facebook overview page
+(Use menu to the left to navigate)
 
