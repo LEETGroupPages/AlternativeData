@@ -1,9 +1,6 @@
 ---
 title: Overview
 permalink: /
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-- jekyll-remote-theme
 --- 
 
 - Introduction
