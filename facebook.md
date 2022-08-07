@@ -9,6 +9,7 @@ Some text to get us started.
 
 then...
 
+[Go to Methodology](#Methodology)
 
 asdf
 
