@@ -1,6 +1,6 @@
 ---
 title: Facebook
-permalink: /facebook/
+#permalink: /facebook/
 sidebar:
   nav: "facebook"
 --- 
