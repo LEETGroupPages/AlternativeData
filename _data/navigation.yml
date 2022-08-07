@@ -2,6 +2,11 @@ main:
 - title: "Overview"
   url: /
 - title: "Facebook"
-  url: /test/
+  url: /facebook/
+- title: "Project plans"
+  url: /plans/
+- title: "Contact"
+  url: /contact/
+
 
 
