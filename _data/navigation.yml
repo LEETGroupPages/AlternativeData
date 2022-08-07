@@ -12,7 +12,7 @@ facebook:
 - title: "Company reported data"
   children:
   - title: "link to data"
-    url: /facebook/
+    url: /facebook/company-reported-data/
 - title: "Alternative data"
   children:
   - title: "link..."
