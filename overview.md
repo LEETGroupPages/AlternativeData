@@ -1,8 +1,7 @@
 ---
 title: Overview
+layout: home
 permalink: /
-sidebar:
-  nav: "facebook"
 --- 
 
 - Introduction
