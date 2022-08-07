@@ -1,5 +1,6 @@
 ---
 title: Overview
+layout: default
 permalink: /
 has_children: true
 --- 
