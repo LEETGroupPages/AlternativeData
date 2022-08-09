@@ -17,4 +17,4 @@ Thanks, and I hope you find this useful!
 
 PS. To explain why these "surprises" still exists, it's worth noting that most alternative data providers only use broadly applied techniques and do not go deep into company specific data gathering, and therefore are not able of making assertions avoiding the above-mentioned surprises for Facebook/META in 20222Q1 and 2022Q2. There are more specialized alternative data providers (e.g. [Yipit](https://www.yipitdata.com/coverage), [MScience](https://mscience.com/files/coveragelist.pdf), [ThinkNum](https://www.thinknum.com/datasets/all)), but they mainly aggregate data sources in order to sell company specific analysis rather than themselves doing primary deep company-specific data gathering.
 
-PS2. Also worth noting is that the recent [Supreme court decision](https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn) enables less restraint and deeper data gathering - previously arguable not pursuable.
+PS2. Also worth noting is that the recent [Supreme court decision](https://en.wikipedia.org/wiki/HiQ_Labs_v._LinkedIn) enables deeper and less restraint data gathering - previously arguable not pursuable.
