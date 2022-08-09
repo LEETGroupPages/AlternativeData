@@ -49,19 +49,19 @@ Facebook/META releases their quarterly results after market close. The table bel
 | October 29 2020 | $280.83 | $274.50 | -2.3% |
 | July 30 2020 | $234.50 | $255.82 | 9.1% |
 
-When looking deeper into the reasons behind the drops, it is clear that the sudden changes in share price are largely driven by "surprises" on the user numbers:
+When looking deeper into the reasons behind the drops, they are driven exclusively by revenue either through the monetization component (average revenue per person, price per impression) or the user engagement component (daily/monthly active users/people, total impressions):
 
-### July 27 2022 drop was largely due to missed revenue
+### July 27 2022 drop was largely due to missed revenue, driven by a lower degree of monetization
 > Facebook reports first-ever decline in revenue ([Washington Post](https://www.washingtonpost.com/technology/2022/07/27/facebook-revenue-declines-2nd-quarter-earnings/))
 
 > Meta Falls as Sales Miss Estimates in First-Ever Quarterly Drop ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/meta-falls-as-sales-miss-estimates-decline-for-first-time))
 
-### April 27 2022 gain was largely due to an upswing in user growth, and bounce back from fears instilled by user drop in prior quarter
+### April 27 2022 gain was largely due to an upswing in user growth, and bounce back from fears instilled by the user drop in Q4 (Feb 2 2022 drop in share price)
 > Facebook holds on to users, stock soars ([Washington Post](https://www.washingtonpost.com/technology/2022/04/27/facebook-earnings-stock-increase/))
 
 > Meta Shares Soar as Facebook Returns to User Growth ([Bloomberg](https://www.bloomberg.com/news/articles/2022-04-27/meta-platforms-facebook-returns-to-user-growth-shares-soar#xj4y7vzkg))
 
-### February 2 2022 loss was due to first ever drop in user growth
+### February 2 2022 loss was due to weak user growth
 > Facebook loses users for the first time in its history ([Washington Post](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/))
 
 > Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
