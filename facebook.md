@@ -66,9 +66,20 @@ When looking deeper into the reasons behind the drops, they are driven exclusive
 
 > Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
 
+## Discussion of quarterly reporting
+On the reported metrics, it seems that Users and Monetization are the most important metrics:
+- Users: Facebook/META as a platform completely depends on its ability of attracting users. A decline in overall user engagement is read by the market as a signal of the platform being unhealthy (e.g. Feb 2 2022 drop), and any increase in user engagement is a signal of the platform being in a good state (e.g. April 27 2022 gain). A large part of the market cap is subscribed to future potential earnings (EBITDA multiple of ~30x), and the share price is therefore very sensitive to any indication of the long-term potential being at risk.
+- Monetization: The monetization component of the revenue is important, but it seems that the market is viewing this as less of an indication of future performance. That said, changes to the level of performance does also have an impact on the share price (July 27 2022 drop).
+- Costs: It seems that costs and profitability is of little importance. The guidance given is viewed as accurate and trustworthy.
 
+The ability of the market to predict swings in the key metrics of Users and Monetization seems very poor:
+- July 27 2022: The change in monetization (average revenue per person) -5.4% while the market believed that it would come out positive
+- April 27 2022: The increase in users (daily active users) was 2% while the market feared it would be flat
+- February 2 2022: The increase in users (daily active users) flat while the market believed it would be 1-2%
 
-# Alternative data
+A model able of predicting users and monetization within ~1% on a quarterly basis would likely be smarter than the intelligence the current market appears to exhibit.
+
+# Modeled real-time metrics
 {: #alternative }
 Show clean predictive data
 Real time
