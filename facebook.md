@@ -1,5 +1,5 @@
 ---
-title: Facebook
+#title: Facebook
 permalink: /facebook/
 sidebar:
   nav: "facebook"
@@ -10,7 +10,7 @@ sidebar:
 {: #reported }
 
 ## Company reported data
-Facebook/META [releases financials](https://investor.fb.com/financials/?section=quarterlyearnings) once per quarter, most notably detailed data on their key metrics ([2022Q2#1](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q2/Q2-2022_Earnings-Presentation.pdf), [2022Q2#2](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q2/Meta-06.30.2022-Exhibit-99.1-Final.pdf), [2022Q1#1](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q1/Q1-2022_Earnings-Presentation_Final.pdf), [2022Q1#2](https://s21.q4cdn.com/399680738/files/doc_financials/2022/q1/Meta-03.31.2022-Exhibit-99.1_Final.pdf), [2022Q1-10K](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001326801/c07375c5-b2dc-4223-8166-3365a3a1dbfd.pdf)). The table below outlines the key metrics they report on:
+Facebook/META [releases financials](https://investor.fb.com/financials/?section=quarterlyearnings) once per quarter. The table below outlines the key metrics reported on:
 
 | Metric | Description | Breakdowns |
 | ------ | ----------- | ---------- |
@@ -31,11 +31,12 @@ Facebook/META [releases financials](https://investor.fb.com/financials/?section=
 | CFO Outlook | Guidance on (1) revenue/cost next quarter, (2) expenses for full year | No breakdown |
 
 ## Analyst consensus data
-Facebook/META is covered by 40-50 sell-side analysts. Refinitiv, Bloomberg, FactSet, S&P Capital IQ, Zacks and several more provide analyst consensus on both Earnings per Share and Revenue. [StreetAccount](https://www.streetaccount.com/) provides some expectation on Daily Active Users, Monthly Active Users and Average Revenue per User.
+Facebook/META is covered by 40-50 sell-side analysts, aggregated (Refinitiv, Bloomberg, FactSet, S&P Capital IQ, Zacks) into consensus on Earnings per Share and Revenue only. [StreetAccount](https://www.streetaccount.com/) provides some expectation on Daily Active Users, Monthly Active Users and Average Revenue per User.
 
 ## Analysis of recent quarterly reports
+{: #reported-swings }
 
-Facebook/META releases their quarterly results after market close. The table below shows the share price movements of the last few years quarterly results:
+Facebook/META releases their quarterly results after market close. The table below shows the share price movements following these releases:
 
 | Earnings date | Price before release ("close" day of) | Price after release ("open" day after) | Change
 | ------ | ------ | ------ | ------ |
@@ -49,22 +50,21 @@ Facebook/META releases their quarterly results after market close. The table bel
 | October 29 2020 | $280.83 | $274.50 | -2.3% |
 | July 30 2020 | $234.50 | $255.82 | 9.1% |
 
-When looking deeper into the reasons behind the drops, they are driven exclusively by revenue either through the monetization component (average revenue per person, price per impression) or the user engagement component (daily/monthly active users/people, total impressions):
+February 2 2022 loss was due to weak user growth:
+> Facebook loses users for the first time in its history ([Washington Post](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/))
 
-### July 27 2022 drop was largely due to missed revenue, driven by a lower degree of monetization
-> Facebook reports first-ever decline in revenue ([Washington Post](https://www.washingtonpost.com/technology/2022/07/27/facebook-revenue-declines-2nd-quarter-earnings/))
+> Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
 
-> Meta Falls as Sales Miss Estimates in First-Ever Quarterly Drop ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/meta-falls-as-sales-miss-estimates-decline-for-first-time))
-
-### April 27 2022 gain was largely due to an upswing in user growth, and bounce back from fears instilled by the user drop in Q4 (Feb 2 2022 drop in share price)
+April 27 2022 gain was largely due to an upswing in user growth:
 > Facebook holds on to users, stock soars ([Washington Post](https://www.washingtonpost.com/technology/2022/04/27/facebook-earnings-stock-increase/))
 
 > Meta Shares Soar as Facebook Returns to User Growth ([Bloomberg](https://www.bloomberg.com/news/articles/2022-04-27/meta-platforms-facebook-returns-to-user-growth-shares-soar#xj4y7vzkg))
 
-### February 2 2022 loss was due to weak user growth
-> Facebook loses users for the first time in its history ([Washington Post](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/))
+July 27 2022 drop was largely due to missed revenue, driven by a lower degree of monetization:
+> Facebook reports first-ever decline in revenue ([Washington Post](https://www.washingtonpost.com/technology/2022/07/27/facebook-revenue-declines-2nd-quarter-earnings/))
 
-> Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
+> Meta Falls as Sales Miss Estimates in First-Ever Quarterly Drop ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/meta-falls-as-sales-miss-estimates-decline-for-first-time))
+
 
 ## Discussion of quarterly reporting
 On the reported metrics, it seems that Users and Monetization are the most important metrics:
