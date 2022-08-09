@@ -33,11 +33,11 @@ Facebook/META [releases financials](https://investor.fb.com/financials/?section=
 ## Analyst consensus data
 Facebook/META is covered by 40-50 sell-side analysts. Refinitiv, Bloomberg, FactSet, S&P Capital IQ, Zacks and several more provide analyst consensus on both Earnings per Share and Revenue. [StreetAccount](https://www.streetaccount.com/) provides some expectation on Daily Active Users, Monthly Active Users and Average Revenue per User.
 
-## Share price responses to quarterly reports
+## Analysis of recent quarterly reports
 
 Facebook/META releases their quarterly results after market close. The table below shows the share price movements of the last few years quarterly results:
 
-| Earnings date | Price before release (close day of) | Price after release (open day after) | Change
+| Earnings date | Price before release ("close" day of) | Price after release ("open" day after) | Change
 | ------ | ------ | ------ | ------ |
 | July 27 2022 | $169.58 | $161.06 | -9.5% |
 | April 27 2022 | $174.95 | $202.92 | 16.0% |
@@ -49,56 +49,23 @@ Facebook/META releases their quarterly results after market close. The table bel
 | October 29 2020 | $280.83 | $274.50 | -2.3% |
 | July 30 2020 | $234.50 | $255.82 | 9.1% |
 
-July 27 2022 drop was largely due to missed revenue"
+When looking deeper into the reasons behind the drops, it is clear that the sudden changes in share price are largely driven by "surprises" on the user numbers:
+
+### July 27 2022 drop was largely due to missed revenue
 > Facebook reports first-ever decline in revenue ([Washington Post](https://www.washingtonpost.com/technology/2022/07/27/facebook-revenue-declines-2nd-quarter-earnings/))
+
 > Meta Falls as Sales Miss Estimates in First-Ever Quarterly Drop ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/meta-falls-as-sales-miss-estimates-decline-for-first-time))
 
-April 27 2022 gain was largely due to an upswing in user growth, and bounce back from fears instilled by user drop in prior quarter
+### April 27 2022 gain was largely due to an upswing in user growth, and bounce back from fears instilled by user drop in prior quarter
 > Facebook holds on to users, stock soars ([Washington Post](https://www.washingtonpost.com/technology/2022/04/27/facebook-earnings-stock-increase/))
+
 > Meta Shares Soar as Facebook Returns to User Growth ([Bloomberg](https://www.bloomberg.com/news/articles/2022-04-27/meta-platforms-facebook-returns-to-user-growth-shares-soar#xj4y7vzkg))
 
-February 2 2022 loss was due to first ever drop in user growth
+### February 2 2022 loss was due to first ever drop in user growth
 > Facebook loses users for the first time in its history ([Washington Post](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/))
+
 > Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Some stuff about company reported data
-... including share price movements
-
-sdf
-
-sdf
-
-sdf
-
-sdf
-
-sdf
-
-sdf
-
-sdf
-
-sdf
-
-sdf
-
-sdf
 
 
 # Alternative data
