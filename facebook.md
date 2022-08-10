@@ -77,10 +77,19 @@ The ability of the market to predict swings in the key metrics of Users and Mone
 - April 27 2022: The increase in users (daily active users) was 2% while the market feared it would be flat
 - February 2 2022: The increase in users (daily active users) flat while the market believed it would be 1-2%
 
-A model able of predicting users and monetization within ~1% on a quarterly basis would likely be smarter than the intelligence the current market appears to exhibit.
+A model able of predicting users and monetization within ~1% on a quarterly basis would likely be smarter than the current market.
 
 # Modeled real-time metrics
 {: #alternative }
+Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. If you want to understand in detail how the below metrics are put together, please read through the [methodology](/#methodology) section.
+
+## User engagement data
+
+
+## Monetization data
+
+I have experimental versions of this and I hope to publish them soon. If you're interested in seeing what I have so far, please [contact](/contact) me.
+
 Show clean predictive data
 Real time
 Same layout
