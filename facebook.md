@@ -91,6 +91,16 @@ Below is the reported data for Daily Active People for the whole family of apps 
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=197119922&format=image)
 
+Do note that the Q3'22 result for Facebook will be the average of the July, August and September measurements. The July, August and September are an aggregation of the daily view below:
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=461057490&format=image)
+
+When looking at the daily chart it's important to note that the first day of the quarter (July 5) can not be directly compared to the reported number fore Q2'22 as the reported number for Q2'22 is the average of all the days across all of Q2'22, and the first day of the quarter is only a continuity from the last day of the quarter (which is not reported on).
+
+
+
+
+
 
 
 
