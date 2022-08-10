@@ -85,6 +85,14 @@ Facebook has a very rich digital footprint. In particular the public user engage
 
 ## User engagement data
 
+The user engagement in Facebook/METAs quarterly reports is on Monthly and Daily active people/users for the Facebook app and for the whole family of apps (Facebook, Instagram, Messenger and Whatsapp).
+
+Below is the reported data for Daily Active People for the whole family of apps (Facebook, Instagram, Messenger, Whatsapp), including the derived real-time measurements:
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=197119922&format=image)
+
+
+
 
 ## Monetization data
 
