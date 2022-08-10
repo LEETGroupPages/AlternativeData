@@ -81,18 +81,15 @@ A model able of predicting users and monetization within ~1% on a quarterly basi
 
 # Modeled real-time metrics
 {: #alternative }
-Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. If you want to understand in detail how the below metrics are put together, please read through the [methodology](/#methodology) section.
+Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section.
 
 ## User engagement data
 
 
 ## Monetization data
 
-I have experimental versions of this and I hope to publish them soon. If you're interested in seeing what I have so far, please [contact](/contact) me.
+I have experimental versions of this and I hope to publish them soon. If you're interested in seeing what I have so far, please [contact]({{site.baseurl}}/contact) me.
 
-Show clean predictive data
-Real time
-Same layout
 
 # Methodology
 {: #methodology }
