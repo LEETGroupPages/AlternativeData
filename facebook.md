@@ -103,6 +103,9 @@ For Monthly Active People, please see reported data with monthly measurements, a
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=547934901&format=image)
 
+Below is the equivalent chart for Daily Active Users for Facebook only:
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1019087059&format=image)
 
 
 
