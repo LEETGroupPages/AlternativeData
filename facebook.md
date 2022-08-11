@@ -103,7 +103,7 @@ For Monthly Active People, please see reported data with monthly measurements, a
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=547934901&format=image)
 
-Below is the equivalent chart for Daily Active Users for Facebook only:
+Below is the equivalent chart for Daily Active Users for Facebook only (including daily measurements by region):
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1019087059&format=image)
 
@@ -114,6 +114,21 @@ Below is the equivalent chart for Daily Active Users for Facebook only:
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1429312093&format=image)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=835800087&format=image)
+
+And below is the equivalent for Monthly Active Users for Facebook only (including daily measurements by region):
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=471088397&format=image)
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1803887422&format=image)
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=73177859&format=image)
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=153160194&format=image)
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=274548782&format=image)
+
+If anyone is interested in accessing the underlying data for any of this, please [contact me]({{site.baseurl}}/contact) and I'll either give you a one-time dump or build a system that delivers the data on a daily basis to you.
+
 
 
 
