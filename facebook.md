@@ -97,6 +97,12 @@ Do note that the Q3'22 result for Facebook will be the average of the July, Augu
 
 When looking at the daily chart it's important to note that the first day of the quarter (July 5) can not be directly compared to the reported number fore Q2'22 as the reported number for Q2'22 is the average of all the days across all of Q2'22, and the first day of the quarter is only a continuity from the last day of the quarter (which is not reported on). Similarly, even though the last daily measurement for the quarter (September 30) may be substantially higher than the reported number for Q2'22, the actually reported number for Q3'22 will be an average of all the daily values for all of Q3'22. To form an idea of what the reported number for Q3'22 will be the best way is to take the average of the above shown values for July, August and September (as September populates with confidence towards the end of the quarter).
 
+For Monthly Active People, please see reported data with monthly measurements, as well as daily underlying measurements below:
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1473773026&format=image)
+
+![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=547934901&format=image)
+
 
 
 
