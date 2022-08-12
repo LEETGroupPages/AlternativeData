@@ -27,6 +27,12 @@ comments:
   disqus:
     shortname: "augur-1"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-5EWW0BPJZ1"
+    anonymize_ip: false
+
 # theme: default
 # https://github.com/jekyll/minima
 # https://github.com/mmistakes/minimal-mistakes
