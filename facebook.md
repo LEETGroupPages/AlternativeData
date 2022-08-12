@@ -159,6 +159,13 @@ Furthermore, information is given about the cost of reaching this audience:
 
 This gives information about the prices Facebook is charging for engaging and reaching their audience (e.g. monetization data).
 
+When it comes to the user data, there are two bias issues:
+- Only users that are "monetizeable" are measured. This excludes for example users under the age of 13
+- No ads are shown on Whatsapp, and therefore any users only using Whatsapp would not be covered by this data (a problem for the reported "Family" statistics)
+
+Overall though the under-reporting due to the two issues above can be calculated and is 15-20% depending on the platform and geography. Furthermore, in predicting revenue the issues above are actualle non-issues as the missed out measured audiences anyway are not generating any revenue for Facebook.
+
+
 
 
 
