@@ -141,7 +141,7 @@ Facebook/META exposes data through a large set of interfaces, but one major area
 
 Most notably, they give out data on the reach of campaigns. Below is an example of this reported for a certain geographical, demographic and placement/property targeting:
 
-![alt]({{site.baseurl}}/assets/images/Reach.png)
+![alt]({{site.baseurl}}/docs/assets/images/Reach.png)
 
 
 
