@@ -23,14 +23,9 @@ subtitle: "Measuring real-time company performance"
 repository: "leetgrouppages/alternativedata"
 
 comments:
-  provider: "giscus"
-  giscus:
-    repo_id              : "R_kgDOHx6SBw"
-    category_name        : "General"
-    category_id          : "DIC_kwDOHx6SB84CQw05"
-    discussion_term      : "pathname"
-    reactions_enabled    : "1"
-    theme                : "light"
+  provider: "disqus"
+  disqus:
+    shortname: "augur-1"
 
 # theme: default
 # https://github.com/jekyll/minima
