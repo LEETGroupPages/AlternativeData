@@ -15,7 +15,7 @@ defaults:
   values:
     layout: "single"
 
-
+minimal_mistakes_skin: "air"
 
 # theme: default
 # https://github.com/jekyll/minima
