@@ -159,24 +159,15 @@ Furthermore, information is given about the cost of reaching this audience:
 
 This gives information about the prices Facebook is charging for engaging and reaching their audience (e.g. monetization data).
 
+Currently, ~600 data points are pulled four times per day in order to accurately derive the reported metrics.
+
 When it comes to the user data, there are two bias issues:
 - Only users that are "monetizeable" are measured. This excludes for example users under the age of 13
 - No ads are shown on Whatsapp, and therefore any users only using Whatsapp would not be covered by this data (a problem for the reported "Family" statistics)
 
 Overall though the under-reporting due to the two issues above can be calculated and is 15-20% depending on the platform and geography. Furthermore, in predicting revenue the issues above are actualle non-issues as the missed out measured audiences anyway are not generating any revenue for Facebook.
 
-
-
-
-
-
-Details about where the data is from
-Discussions on "monetizeable users"
-etc
-
-
 # Raw data download #
 {: #download }
-Download links
-S3 direct links
 
+All data shown above can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pub?gid=1923224639&single=true&output=csv). Please note that this file is updated on a daily basis.
