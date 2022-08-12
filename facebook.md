@@ -1,5 +1,5 @@
 ---
-#title: Facebook
+title: Facebook
 permalink: /facebook/
 sidebar:
   nav: "facebook"
