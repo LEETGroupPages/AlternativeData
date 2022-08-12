@@ -11,7 +11,7 @@ main:
 facebook:
 - title: "Company reported data"
   url: /facebook/#reported
-- title: "Alternative data"
+- title: "Modeled daily metrics"
   url: /facebook/#alternative
 - title: "Methodology"
   url: /facebook/#methodology
