@@ -1,5 +1,5 @@
 ---
-title: Facebook/META
+title: 
 permalink: /facebook/
 sidebar:
   nav: "facebook"
