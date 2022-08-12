@@ -130,13 +130,6 @@ And below is the equivalent for Monthly Active Users for Facebook only (includin
 If anyone is interested in accessing the underlying data for any of this, please [contact me]({{site.baseurl}}/contact) and I'll either give you a one-time dump or build a system that delivers the data on a daily basis to you.
 
 
-
-
-
-
-
-
-
 ## Monetization data
 
 I have experimental versions of this and I hope to publish them soon. If you're interested in seeing what I have so far, please [contact]({{site.baseurl}}/contact) me.
@@ -144,6 +137,16 @@ I have experimental versions of this and I hope to publish them soon. If you're 
 
 # Methodology
 {: #methodology }
+Facebook/META exposes data through a large set of interfaces, but one major area is through their advertising products which happen to also be the driver of the vast majority of revenue for Facebook. Through the advertising products Facebook/META allows anyone to run advertising campaigns where against payment anyone can reach their users. As part of this, Facebook reports on how many users were reached and what the cost was for the ad campaign. To allow for advertisers to plan and evaluate their campaigns they expose a large set of statistics and data.
+
+Most notably, they give out data on the reach of campaigns. Below is an example of this reported for a certain geographical, demographic and placement/property targeting:
+
+![alt]({{site.baseurl}}/assets/images/Reach.png)
+
+
+
+
+
 Details about where the data is from
 Discussions on "monetizeable users"
 etc
