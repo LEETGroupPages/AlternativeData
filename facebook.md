@@ -6,10 +6,8 @@ sidebar:
 --- 
 
 
-# Facebook/META: Reported data
-{: #reported }
-
 ## Company reported data
+{: #reported }
 Facebook/META [releases financials](https://investor.fb.com/financials/?section=quarterlyearnings) once per quarter. The table below outlines the key metrics reported on:
 
 | Metric | Description | Breakdowns |
