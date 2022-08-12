@@ -17,6 +17,7 @@ defaults:
 
 minimal_mistakes_skin: "default"
 title: "Project X"
+subtitle: "Measuring company performance in real-time"
 
 # theme: default
 # https://github.com/jekyll/minima
