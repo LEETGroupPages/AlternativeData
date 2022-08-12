@@ -16,8 +16,13 @@ defaults:
     layout: "single"
 
 minimal_mistakes_skin: "default"
-title: "Project X"
-subtitle: "Measuring company performance in real-time"
+title: "Project Augur"
+subtitle: "Measuring real-time company performance"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "augur-1"
 
 # theme: default
 # https://github.com/jekyll/minima
