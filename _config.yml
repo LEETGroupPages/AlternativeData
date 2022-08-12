@@ -15,7 +15,8 @@ defaults:
   values:
     layout: "single"
 
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "default"
+title: "Project X"
 
 # theme: default
 # https://github.com/jekyll/minima
