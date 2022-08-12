@@ -77,7 +77,7 @@ The ability of the market to predict swings in the key metrics of Users and Mone
 
 A model able of predicting users and monetization within ~1% on a quarterly basis would likely be smarter than the current market.
 
-# Modeled real-time metrics
+# Modeled daily metrics
 {: #alternative }
 Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section.
 
