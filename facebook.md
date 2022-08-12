@@ -143,6 +143,22 @@ Most notably, they give out data on the reach of campaigns. Below is an example 
 
 ![alt]({{site.baseurl}}/docs/assets/images/Reach.png)
 
+The parameters can be varied along a large set of parameters, including:
+* Location (country, region, etc)
+* User age
+* Gender
+* Interests
+* Language spoken
+* Platform (Facebook, Instagram, Messenger)
+
+This gives the ability of extracting data about the total reach available at any given time for a subset of these parameters.
+
+Furthermore, information is given about the cost of reaching this audience:
+
+![alt]({{site.baseurl}}/docs/assets/images/Reach_2.png)
+
+This gives information about the prices Facebook is charging for engaging and reaching their audience (e.g. monetization data).
+
 
 
 
