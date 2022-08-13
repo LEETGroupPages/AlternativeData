@@ -52,7 +52,7 @@ The user engagement in Facebook/METAs quarterly reports is on Monthly and Daily 
 
 ## Daily Active People for Family of apps
 {: #dap-family }
-Possibly the most important user metric that Facebook reports on is the total number of daily active people across their entire family of applications (Facebook, Instagram, Messenger and Whatsapp). Below is a graph showing the reported metrics (in dark blue) as well as the models measurements for the following months (not yet reported on metrics):
+Possibly the most important user metric that Facebook reports on is the total number of daily active people across their entire family of applications (Facebook, Instagram, Messenger and Whatsapp). Below is a graph showing the reported metrics (in dark blue) as well as the modeled measurements (light blue) for the following months (not yet reported on metrics):
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1639133568&format=image)
 
@@ -60,7 +60,7 @@ Do note that the Q3'22 result for Facebook will be the average of the July, Augu
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=461057490&format=image)
 
-When looking at the daily chart it's important to note that the first day of the quarter can not be directly compared to the reported number for Q2'22 as the reported number for Q2'22 is the average of all the days across all of Q2'22, and the first day of the quarter is only a continuity from the last day of the quarter (which is not reported on). Similarly, even though the last daily measurement for the quarter (September 30) may be substantially higher than the reported number for Q2'22, the actually reported number for Q3'22 will be an average of all the daily values for all of Q3'22. To form an idea of what the reported number for Q3'22 will be the best way is to take the average of the above shown values for July, August and September (as September populates with confidence towards the end of the quarter).
+When looking at the daily chart it's important to note that the first day of the quarter can not be directly compared to the reported number for Q2'22 as the reported number for Q2'22 is the average of all the days across all of Q2'22, and the first day of the quarter is only a continuity from the last day of the quarter (which is not reported on). Similarly, even though the last daily measurement for the quarter (September 30) may be substantially higher than the reported number for Q2'22, the actually reported number for Q3'22 will be an average of all the daily values for all of Q3'22. To calculate what the reported number for Q3'22 will be the best way is to take the average of the above shown values for July, August and September (as September populates with confidence towards the end of the quarter).
 
 ## Monthly Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
 {: #map-family }
@@ -130,18 +130,18 @@ Furthermore, information is given about the cost of reaching this audience:
 
 This gives information about the prices Facebook is charging for engaging and reaching their audience (e.g. monetization data).
 
-Currently, ~600 data points are pulled four times per day in order to accurately derive the reported metrics.
+Currently, I have automatic jobs that extract ~600 data points by "mystery shopping" four times per day in various places and with various settings. This data is then aggregated in order to accurately derive the reported metrics.
 
-When it comes to the user data, there are two bias issues:
+When it comes to the user data, there are two main bias issues:
 - Only users that are "monetizeable" are measured. This excludes for example users under the age of 13
-- No ads are shown on Whatsapp, and therefore any users only using Whatsapp would not be covered by this data (a problem for the reported "Family" statistics)
+- No ads are shown on Whatsapp, and therefore any users *only* using Whatsapp would not be covered by this data (a problem for the reported "Family" statistics)
 
-Overall though the under-reporting due to the two issues above can be calculated and is 15-20% depending on the platform and geography. Furthermore, in predicting revenue the issues above are actualle non-issues as the missed out measured audiences anyway are not generating any revenue for Facebook.
+Overall though the under-reporting due to the two issues above can be calculated and is 15-20% depending on the platform and geography. Furthermore, in predicting revenue the issues above are actually non-issues as the missed out measured audiences anyway are not generating any revenue for Facebook.
 
 # Raw data download
 {: #download }
 
-All data shown above can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pub?gid=1923224639&single=true&output=csv). Please note that this file is updated on a daily basis.
+All data shown above can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pub?gid=1923224639&single=true&output=csv). Please note that this file is updated on a daily basis. It is undocumented but should be fairly self-explanatory.
 
 # Appendix
 {: #appendix }
