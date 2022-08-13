@@ -19,8 +19,14 @@ facebook:
 - title: "Modeled daily metrics"
   url: /facebook/#alternative
   children:
-  - title: "User engagement data"
-    url: /facebook/#engagement
+  - title: "Daily Active People (all apps)"
+    url: /facebook/#dap-family
+  - title: "Monthly Active People (all apps)"
+    url: /facebook/#map-family
+  - title: "Daily Active Users (Facebook only)"
+    url: /facebook/#dau-facebook
+  - title: "Monthly Active Users (Facebook only)"
+    url: /facebook/#mau-facebook
   - title: "Monetization data"
     url: /facebook/#monetization
 - title: "Methodology"
