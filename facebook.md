@@ -64,6 +64,8 @@ When looking at the daily chart it's important to note that the first day of the
 
 ### Monthly Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
 
+Facebook/META also reports on monthly active people, e.g. people that have had any activity across all their properties any time over the last 30 days.
+
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1473773026&format=image)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=547934901&format=image)
