@@ -148,6 +148,7 @@ Overall though the under-reporting due to the two issues above can be calculated
 All data shown above can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pub?gid=1923224639&single=true&output=csv). Please note that this file is updated on a daily basis.
 
 # Appendix
+{: #appendix }
 
 ## Company reported data
 {: #reported }
