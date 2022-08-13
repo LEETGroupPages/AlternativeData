@@ -10,8 +10,9 @@ main:
 
 facebook:
 - title: "Recent quarterly reports"
-  url: /facebook/#alternative
+  url: /facebook/#reported-swings
 - title: "Modeled daily metrics"
+  url: /facebook/#alternative
   children:
   - title: "User engagement data"
     url: /facebook/#engagement
