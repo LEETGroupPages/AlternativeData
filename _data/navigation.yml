@@ -23,6 +23,7 @@ facebook:
 - title: "Raw data download"
   url: /facebook/#download
 - title: "Appendix"
+  url: /facebook/#appendix
   children:
   - title: "Company reported data"
     url: /facebook/#reported
