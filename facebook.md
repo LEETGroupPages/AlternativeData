@@ -9,7 +9,7 @@ sidebar:
 ## Recent quarterly reports
 {: #reported-swings }
 
-Facebook/META releases their quarterly results after market close. The table below shows the share price movements following the last few years quarterly reports:
+Facebook/META releases their [quarterly results](https://investor.fb.com/financials/?section=quarterlyearnings) after market close. The table below shows the immediate share price change following the their last quarterly reports, and as such is a measurement of the markets "surprise" by the information released:
 
 | Earnings date | Price before release ("close" day of) | Price after release ("open" day after) | Change
 | ------ | ------ | ------ | ------ |
@@ -26,13 +26,18 @@ Facebook/META releases their quarterly results after market close. The table bel
 ## Main drivers of share price
 {: #drivers }
 
-When looking at the reasons behind the sharp changes in share price, it seems that Users and Monetization are the most drivers:
+When looking at the reasons behind the sharp changes in share price, it seems that the market was surprised by changes in user growth and monetization:
 
 > Feb 2, 2022: Facebook loses users for the first time in its history ([Washington Post](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/))
+
 > Feb 2, 2022: Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
+
 > Apr 27, 2022: Facebook holds on to users, stock soars ([Washington Post](https://www.washingtonpost.com/technology/2022/04/27/facebook-earnings-stock-increase/))
+
 > Apr 27, 2022:: Meta Shares Soar as Facebook Returns to User Growth ([Bloomberg](https://www.bloomberg.com/news/articles/2022-04-27/meta-platforms-facebook-returns-to-user-growth-shares-soar#xj4y7vzkg))
+
 > Jul 27, 2022: Facebook reports first-ever decline in revenue ([Washington Post](https://www.washingtonpost.com/technology/2022/07/27/facebook-revenue-declines-2nd-quarter-earnings/))
+
 > Jul 27, 2022: Meta Falls as Sales Miss Estimates in First-Ever Quarterly Drop ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/meta-falls-as-sales-miss-estimates-decline-for-first-time))
 
 # Modeled daily metrics
