@@ -42,7 +42,8 @@ When looking at the reasons behind the sharp changes in share price, it seems th
 
 # Modeled daily metrics
 {: #alternative }
-A model able of measuring users and monetization within +-1% on a quarterly basis would likely be smarter than the current market. Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. Below you will find daily measurements of all the key metrics that Facebook report on. These can be used to essential know the quarterly results on these metrics ahead of them being announced by the company.
+
+Below you will find the output of a model that measures the key metrics on a daily basis. The model is built using automatic data gathering from the very rich digital footprint that Facebook/META has, in particular from the public user engagement with their platforms and the metrics exposed through their advertising products. My testing suggests that the model has an accuracy well within +-1% on a quarterly basis, and as such should by far carry more information than what the market currently seems to have judging by the surprises following company announcements.
 
 If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section. All the data is available for [download raw data]({{site.baseurl}}/facebook/#download) if you want to explore it yourself.
 
