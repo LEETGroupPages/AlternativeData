@@ -22,10 +22,10 @@ subtitle: "Measuring real-time company performance"
 
 repository: "leetgrouppages/alternativedata"
 
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "augur-1"
+#comments:
+#  provider: "disqus"
+#  disqus:
+#    shortname: "augur-1"
 
 analytics:
   provider: "google-gtag"
