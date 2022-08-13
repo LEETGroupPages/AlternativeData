@@ -47,12 +47,12 @@ Below you will find the output of a model that measures the key metrics on a dai
 
 If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section. All the data is available for [download raw data]({{site.baseurl}}/facebook/#download) if you want to explore it yourself.
 
-## User engagement data
-{: #engagement }
-
 The user engagement in Facebook/METAs quarterly reports is on Monthly and Daily active people/users for the Facebook app and for the whole family of apps (Facebook, Instagram, Messenger and Whatsapp). Please see the [appendix]({{site.baseurl}}/facebook/#reported) for a detailed overview of what metrics Facebook/META is [reporting on](https://investor.fb.com/financials/?section=quarterlyearnings).
 
-### Daily Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
+
+## Daily Active People for Family of apps
+{: #dap-family }
+Possibly the most important user metric that Facebook reports on is the total number of daily active people across their entire family of applications (Facebook, Instagram, Messenger and Whatsapp). Below is a graph showing the reported metrics (in dark blue) as well as the models measurements for the following months (not yet reported on metrics):
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1639133568&format=image)
 
@@ -62,7 +62,8 @@ Do note that the Q3'22 result for Facebook will be the average of the July, Augu
 
 When looking at the daily chart it's important to note that the first day of the quarter can not be directly compared to the reported number for Q2'22 as the reported number for Q2'22 is the average of all the days across all of Q2'22, and the first day of the quarter is only a continuity from the last day of the quarter (which is not reported on). Similarly, even though the last daily measurement for the quarter (September 30) may be substantially higher than the reported number for Q2'22, the actually reported number for Q3'22 will be an average of all the daily values for all of Q3'22. To form an idea of what the reported number for Q3'22 will be the best way is to take the average of the above shown values for July, August and September (as September populates with confidence towards the end of the quarter).
 
-### Monthly Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
+## Monthly Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
+{: #map-family }
 
 Facebook/META also reports on monthly active people, e.g. people that have had any activity across all their properties any time over the last 30 days.
 
@@ -70,7 +71,8 @@ Facebook/META also reports on monthly active people, e.g. people that have had a
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=547934901&format=image)
 
-### Daily Active Users for Facebook only
+## Daily Active Users for Facebook only
+{: #dau-facebook }
 
 Facebook/META also reports on metrics only for the Facebook property (e.g. Facebook.com and the Facebook mobile app). These metrics cover only users on this property, not users on Instagram, Messenger and Whatsapp.
 
@@ -84,7 +86,8 @@ Facebook/META also reports on metrics only for the Facebook property (e.g. Faceb
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=835800087&format=image)
 
-### Monthly Active Users for Facebook only
+## Monthly Active Users for Facebook only
+{: #mau-facebook }
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=471088397&format=image)
 
