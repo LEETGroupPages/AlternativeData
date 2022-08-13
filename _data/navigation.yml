@@ -9,7 +9,8 @@ main:
   url: /contact/
 
 facebook:
-- title: "Facebook financial reporting"
+- title: "Financial reporting"
+  url: /facebook/#reported-swings
   children:
   - title: "Recent quarterly reports"
     url: /facebook/#reported-swings
