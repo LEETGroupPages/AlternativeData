@@ -6,31 +6,6 @@ sidebar:
 --- 
 
 
-## Company reported data
-{: #reported }
-Facebook/META [releases financials](https://investor.fb.com/financials/?section=quarterlyearnings) once per quarter. The table below outlines the key metrics reported on:
-
-| Metric | Description | Breakdowns |
-| ------ | ----------- | ---------- |
-| Earnings per share | Total profit divided by number of outstanding shares | No breakdown |
-| Total revenue | Total revenue across all of METAs properties | Regional breakdown |
-| Advertising revenue | Total revenue from advertising (e.g. excluding Reality Labs) across all of METAs properties | Regional breakdown |
-| Costs | Total costs across all of META | G&A, M&S, R&D, CoS, Taxes |
-| Capital Expenditures | Total capital expenditures across META | No breakdown |
-| Family Daily Active People | (this is a new user metric) Total number of people (as best determined by META) active on a specific day across all META properties (Facebook, Instagram, Messenger, Whatsapp) | No breakdown |
-| Family Monthly Active People | (this is a new user metric) Total number of people (as best determined by META) active at least once over the last 30 days across all of META | No breakdown |
-| Facebook Daily Active Users | Total number of people active on a daily basis on the Facebook property only | Regional breakdown |
-| Facebook Monthly Active Users | Total number of people active on a monthly basis on the Facebook property only | Regional breakdown |
-| Facebook Average Revenue per User | Total revenue for the Facebook property divided by the average Monthly Active Users | Regional breakdown |
-| Ad impressions | Increase/decrease in number of ad impressions served | No breakdown |
-| Price per impression | Increase/decrease in the price paid per impression | No breakdown |
-| Headcount | Total number of employees | Indicative breakdown by R&D, S&M, G&A |
-| RSU changes | Granted, vested, forfeited RSUs (key component of compensation for R&D) | No breakdown |
-| CFO Outlook | Guidance on (1) revenue/cost next quarter, (2) expenses for full year | No breakdown |
-
-## Analyst consensus data
-Facebook/META is covered by 40-50 sell-side analysts, aggregated (Refinitiv, Bloomberg, FactSet, S&P Capital IQ, Zacks) into consensus on Earnings per Share and Revenue only. [StreetAccount](https://www.streetaccount.com/) provides some expectation on Daily Active Users, Monthly Active Users and Average Revenue per User.
-
 ## Analysis of recent quarterly reports
 {: #reported-swings }
 
@@ -82,6 +57,7 @@ A model able of predicting users and monetization within ~1% on a quarterly basi
 Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section.
 
 ## User engagement data
+{: #engagement }
 
 The user engagement in Facebook/METAs quarterly reports is on Monthly and Daily active people/users for the Facebook app and for the whole family of apps (Facebook, Instagram, Messenger and Whatsapp).
 
@@ -129,6 +105,7 @@ If anyone is interested in accessing the underlying data for any of this, please
 
 
 ## Monetization data
+{: #monetization }
 
 I have experimental versions of this and I hope to publish them soon. If you're interested in seeing what I have so far, please [contact]({{site.baseurl}}/contact) me.
 
@@ -165,7 +142,35 @@ When it comes to the user data, there are two bias issues:
 
 Overall though the under-reporting due to the two issues above can be calculated and is 15-20% depending on the platform and geography. Furthermore, in predicting revenue the issues above are actualle non-issues as the missed out measured audiences anyway are not generating any revenue for Facebook.
 
-# Raw data download #
+# Raw data download
 {: #download }
 
 All data shown above can be downloaded [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pub?gid=1923224639&single=true&output=csv). Please note that this file is updated on a daily basis.
+
+# Appendix
+
+## Company reported data
+{: #reported }
+Facebook/META [releases financials](https://investor.fb.com/financials/?section=quarterlyearnings) once per quarter. The table below outlines the key metrics reported on:
+
+| Metric | Description | Breakdowns |
+| ------ | ----------- | ---------- |
+| Earnings per share | Total profit divided by number of outstanding shares | No breakdown |
+| Total revenue | Total revenue across all of METAs properties | Regional breakdown |
+| Advertising revenue | Total revenue from advertising (e.g. excluding Reality Labs) across all of METAs properties | Regional breakdown |
+| Costs | Total costs across all of META | G&A, M&S, R&D, CoS, Taxes |
+| Capital Expenditures | Total capital expenditures across META | No breakdown |
+| Family Daily Active People | (this is a new user metric) Total number of people (as best determined by META) active on a specific day across all META properties (Facebook, Instagram, Messenger, Whatsapp) | No breakdown |
+| Family Monthly Active People | (this is a new user metric) Total number of people (as best determined by META) active at least once over the last 30 days across all of META | No breakdown |
+| Facebook Daily Active Users | Total number of people active on a daily basis on the Facebook property only | Regional breakdown |
+| Facebook Monthly Active Users | Total number of people active on a monthly basis on the Facebook property only | Regional breakdown |
+| Facebook Average Revenue per User | Total revenue for the Facebook property divided by the average Monthly Active Users | Regional breakdown |
+| Ad impressions | Increase/decrease in number of ad impressions served | No breakdown |
+| Price per impression | Increase/decrease in the price paid per impression | No breakdown |
+| Headcount | Total number of employees | Indicative breakdown by R&D, S&M, G&A |
+| RSU changes | Granted, vested, forfeited RSUs (key component of compensation for R&D) | No breakdown |
+| CFO Outlook | Guidance on (1) revenue/cost next quarter, (2) expenses for full year | No breakdown |
+
+## Analyst consensus data
+{: #consensus }
+Facebook/META is covered by 40-50 sell-side analysts, aggregated (Refinitiv, Bloomberg, FactSet, S&P Capital IQ, Zacks) into consensus on Earnings per Share and Revenue only. [StreetAccount](https://www.streetaccount.com/) provides some expectation on Daily Active Users, Monthly Active Users and Average Revenue per User.
