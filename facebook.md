@@ -72,6 +72,8 @@ Facebook/META also reports on monthly active people, e.g. people that have had a
 
 ### Daily Active Users for Facebook only
 
+Facebook/META also reports on metrics only for the Facebook property (e.g. Facebook.com and the Facebook mobile app). These metrics cover only users on this property, not users on Instagram, Messenger and Whatsapp.
+
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1019087059&format=image)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=28526200&format=image)
