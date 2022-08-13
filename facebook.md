@@ -6,7 +6,7 @@ sidebar:
 --- 
 
 
-## Analysis of recent quarterly reports
+## Recent quarterly reports
 {: #reported-swings }
 
 Facebook/META releases their quarterly results after market close. The table below shows the share price movements following the last few years quarterly reports:
@@ -23,6 +23,11 @@ Facebook/META releases their quarterly results after market close. The table bel
 | October 29 2020 | $280.83 | $274.50 | -2.3% |
 | July 30 2020 | $234.50 | $255.82 | 9.1% |
 
+## Main drivers of share price
+{: #drivers }
+
+When looking at the reasons behind the sharp changes in share price, it seems that Users and Monetization are the most drivers:
+
 > Feb 2, 2022: Facebook loses users for the first time in its history ([Washington Post](https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/))
 > Feb 2, 2022: Meta Faces Historic Stock Rout After Facebook Growth Stalled ([Bloomberg](https://www.bloomberg.com/news/articles/2022-02-02/facebook-shares-plunge-as-users-stall-forecast-falls-short#xj4y7vzkg)
 > Apr 27, 2022: Facebook holds on to users, stock soars ([Washington Post](https://www.washingtonpost.com/technology/2022/04/27/facebook-earnings-stock-increase/))
@@ -30,30 +35,18 @@ Facebook/META releases their quarterly results after market close. The table bel
 > Jul 27, 2022: Facebook reports first-ever decline in revenue ([Washington Post](https://www.washingtonpost.com/technology/2022/07/27/facebook-revenue-declines-2nd-quarter-earnings/))
 > Jul 27, 2022: Meta Falls as Sales Miss Estimates in First-Ever Quarterly Drop ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-27/meta-falls-as-sales-miss-estimates-decline-for-first-time))
 
-
-## Discussion of quarterly reporting
-On the reported metrics, it seems that Users and Monetization are the most important metrics:
-- Users: Facebook/META as a platform completely depends on its ability of attracting users. A decline in overall user engagement is read by the market as a signal of the platform being unhealthy (e.g. Feb 2 2022 drop), and any increase in user engagement is a signal of the platform being in a good state (e.g. April 27 2022 gain). A large part of the market cap is subscribed to future potential earnings (EBITDA multiple of ~30x), and the share price is therefore very sensitive to any indication of the long-term potential being at risk.
-- Monetization: The monetization component of the revenue is important, but it seems that the market is viewing this as less of an indication of future performance. That said, changes to the level of performance does also have an impact on the share price (July 27 2022 drop).
-- Costs: It seems that costs and profitability is of little importance. The guidance given is viewed as accurate and trustworthy.
-
-The ability of the market to predict swings in the key metrics of Users and Monetization seems very poor:
-- July 27 2022: The change in monetization (average revenue per person) -5.4% while the market believed that it would come out positive
-- April 27 2022: The increase in users (daily active users) was 2% while the market feared it would be flat
-- February 2 2022: The increase in users (daily active users) flat while the market believed it would be 1-2%
-
-A model able of predicting users and monetization within ~1% on a quarterly basis would likely be smarter than the current market.
-
 # Modeled daily metrics
 {: #alternative }
-Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section.
+A model able of measuring users and monetization within +-1% on a quarterly basis would likely be smarter than the current market. Facebook has a very rich digital footprint. In particular the public user engagement, and the metrics exposed through their advertising products. Below you will find daily measurements of all the key metrics that Facebook report on. These can be used to essential know the quarterly results on these metrics ahead of them being announced by the company.
+
+If you want to understand in detail how the below metrics are put together, please read through the [methodology]({{site.baseurl}}/facebook/#methodology) section. All the data is available for [download raw data]({{site.baseurl}}/facebook/#download) if you want to explore it yourself.
 
 ## User engagement data
 {: #engagement }
 
-The user engagement in Facebook/METAs quarterly reports is on Monthly and Daily active people/users for the Facebook app and for the whole family of apps (Facebook, Instagram, Messenger and Whatsapp).
+The user engagement in Facebook/METAs quarterly reports is on Monthly and Daily active people/users for the Facebook app and for the whole family of apps (Facebook, Instagram, Messenger and Whatsapp). Please see the [appendix]({{site.baseurl}}/facebook/#reported) for a detailed overview of what metrics Facebook/META is [reporting on](https://investor.fb.com/financials/?section=quarterlyearnings).
 
-Below is the reported data for Daily Active People for the whole family of apps (Facebook, Instagram, Messenger, Whatsapp), including the derived real-time measurements:
+### Daily Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1639133568&format=image)
 
@@ -63,13 +56,13 @@ Do note that the Q3'22 result for Facebook will be the average of the July, Augu
 
 When looking at the daily chart it's important to note that the first day of the quarter (July 5) can not be directly compared to the reported number fore Q2'22 as the reported number for Q2'22 is the average of all the days across all of Q2'22, and the first day of the quarter is only a continuity from the last day of the quarter (which is not reported on). Similarly, even though the last daily measurement for the quarter (September 30) may be substantially higher than the reported number for Q2'22, the actually reported number for Q3'22 will be an average of all the daily values for all of Q3'22. To form an idea of what the reported number for Q3'22 will be the best way is to take the average of the above shown values for July, August and September (as September populates with confidence towards the end of the quarter).
 
-For Monthly Active People, please see reported data with monthly measurements, as well as daily underlying measurements below:
+### Monthly Active People for Family of apps (Facebook, Instagram, Messenger, Whatsapp)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1473773026&format=image)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=547934901&format=image)
 
-Below is the equivalent chart for Daily Active Users for Facebook only (including daily measurements by region):
+### Daily Active Users for Facebook only
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1019087059&format=image)
 
@@ -81,7 +74,7 @@ Below is the equivalent chart for Daily Active Users for Facebook only (includin
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=835800087&format=image)
 
-And below is the equivalent for Monthly Active Users for Facebook only (including daily measurements by region):
+### Monthly Active Users for Facebook only
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=471088397&format=image)
 
@@ -92,8 +85,6 @@ And below is the equivalent for Monthly Active Users for Facebook only (includin
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=153160194&format=image)
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=274548782&format=image)
-
-If anyone is interested in accessing the underlying data for any of this, please [contact me]({{site.baseurl}}/contact) and I'll either give you a one-time dump or build a system that delivers the data on a daily basis to you.
 
 
 ## Monetization data
