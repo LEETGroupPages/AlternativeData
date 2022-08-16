@@ -149,6 +149,8 @@ I'm currently playing around with monetization data and thought I'd show some pr
 
 ![alt](https://docs.google.com/spreadsheets/d/e/2PACX-1vQQzQX605torI6EKbIyL9gZaeeeRW_AXkyVLgd8X7sPeXzgnqyR_-GYm_2arC1DMRVelK1wpjCaTj7k/pubchart?oid=1192437984&format=image)
 
+As of now it seems that there was a dip in monetization across the platforms during the summer, but that it's picking up towards the end of August. The graph above is updating on a daily basis.
+
 # Appendix
 {: #appendix }
 
