@@ -179,3 +179,6 @@ Facebook/META [releases financials](https://investor.fb.com/financials/?section=
 ## Analyst consensus data
 {: #consensus }
 Facebook/META is covered by 40-50 sell-side analysts, aggregated (Refinitiv, Bloomberg, FactSet, S&P Capital IQ, Zacks) into consensus on Earnings per Share and Revenue only. [StreetAccount](https://www.streetaccount.com/) provides some expectation on Daily Active Users, Monthly Active Users and Average Revenue per User.
+
+## Disclaimer
+I'm not a financial advisor. These are merely my personal opinions. If you need financial advice, please consult a licensed professional. Do your own research.
